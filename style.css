@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: #eee;
+}
+
+.card {
+  width: 320px;
+  margin: 60px auto;
+  padding: 25px;
+  background: #0f3460; /* deep navy */
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+  text-align: center;
+  color: #f5f5f5;
+}
+
+.card h1 {
+  color: #e0c097; /* gold accent */
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin: 6px 0;
+}
+
+.bio {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #dcdcdc;
+  line-height: 1.6;
+}
